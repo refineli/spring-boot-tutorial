@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-cache" />
         <module name="spring-boot-druid" />
+        <module name="spring-boot-dubbo-provider" />
         <module name="spring-boot-swagger" />
         <module name="spring-boot-tutorial" />
       </profile>
@@ -15,9 +16,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="spring-boot-cache" options="-parameters" />
-      <module name="spring-boot-druid" options="-parameters" />
-      <module name="spring-boot-swagger" options="-parameters" />
+      <module name="spring-boot-cache" options="" />
+      <module name="spring-boot-druid" options="" />
+      <module name="spring-boot-swagger" options="" />
     </option>
   </component>
 </project>
