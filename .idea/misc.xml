@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/spring-boot-druid/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-cache/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dubbo-consumer/pom.xml" />
       </list>
     </option>
   </component>
